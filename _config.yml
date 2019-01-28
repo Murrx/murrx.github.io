@@ -20,8 +20,8 @@ title                    : "Hydex"
 title_separator          : "-"
 name                     : "Hydex"
 description              : "Hydraulics | Pneumatics | Lubrication"
-url                      : "murrx.github.io"
-baseurl                  : "/"
+url                      : "https://murrx.github.io"
+# baseurl                  : "/"
 repository               : "murrx/murrx-github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -280,7 +280,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
