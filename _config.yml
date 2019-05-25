@@ -288,4 +288,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      read_time: false
 
