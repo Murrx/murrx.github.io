@@ -1,9 +1,28 @@
 ---
 title: Home
-layout: home
+layout: splash
+header:
+  overlay_image: /assets/images/hydex_banner.jpg
+feature_row:
+  - image_path: /assets/images/image.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/image_2.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/image_3.jpg
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "contact"
 ---
+{% include feature_row %}
 
 Welcome to Hydex Ltd. We have over 20 years experience providing a high quality fluid power service to businesses throughout Wales and the North West.
+
 
 Our services include:
 - On-site system fault diagnosis and repair
