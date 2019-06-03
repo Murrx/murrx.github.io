@@ -27,4 +27,4 @@ __Pneumatics__
 - All types of pneumatic tubing
 
 
-As we are an independent company we will be able to supply any part from any manufacturer, so whatever part you may require we will be able to find it!
+As we are an independent company we will be able to supply any part from any manufacturer, so whatever part you may require we will be able to find it !
