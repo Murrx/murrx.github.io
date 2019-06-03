@@ -4,10 +4,10 @@ layout: splash
 header:
   overlay_image: /assets/images/hydex_banner.jpg
 feature_row:
-  - image_path: /assets/images/image.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/Screenshot_20190603-120725.png
+    alt: "placeholder Screenshot 20190603-120725"
+    title: "Misja is een debiel"
+    excerpt: "This is some sample content that Misja has gone loopy"
   - image_path: /assets/images/image_2.jpg
     alt: "placeholder image 2"
     title: "Placeholder 2"
