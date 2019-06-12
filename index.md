@@ -19,7 +19,6 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "contact"
 ---
-{% include feature_row %}
 
 Welcome to Hydex Ltd. We have over 20 years experience providing a high quality fluid power service to businesses throughout Wales and the North West.
 
@@ -32,6 +31,8 @@ Our services include:
 - Fluid power system design and manufacture
 - Hose replacement service
 - Product sales
+
+{% include feature_row %}
 
 We offer a free delivery and collection service and do not charge a call out fee for any of our on-site services.
 
