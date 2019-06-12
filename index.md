@@ -8,16 +8,18 @@ feature_row:
     alt: "placeholder Screenshot 20190603-120725"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "sales"
   - image_path: /assets/images/image_2.jpg
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "contact"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/image_3.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "contact"
+    url: "Test"
 ---
 
 Welcome to Hydex Ltd. We have over 20 years experience providing a high quality fluid power service to businesses throughout Wales and the North West.
@@ -39,4 +41,6 @@ We offer a free delivery and collection service and do not charge a call out fee
 From the smallest o-ring to complete system design and build, we can assist your company with all its fluid power requirements.
 
 ![](/assets/images/image.jpg)
+
+
 ![](/assets/images/image2.jpg)
