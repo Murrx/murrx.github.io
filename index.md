@@ -9,6 +9,7 @@ feature_row:
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "sales"
+    btn_label: "Read More"
   - image_path: /assets/images/image_2.jpg
     alt: "placeholder image 2"
     title: "Placeholder 2"
@@ -20,6 +21,7 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "Test"
+    btn_label: "Read More"
 ---
 
 Welcome to Hydex Ltd. We have over 20 years experience providing a high quality fluid power service to businesses throughout Wales and the North West.
